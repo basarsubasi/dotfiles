@@ -6,6 +6,8 @@ base 3-2
 base-devel 1-2
 bat 0.25.0-4
 bcc 0.35.0-5
+zoxide
+fzf
 bcc-libbpf-tools 0.35.0-5
 bind 9.20.13-1
 bluez-tools 0.2.0-6
