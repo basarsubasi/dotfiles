@@ -33,13 +33,13 @@
         {
           "background": "#f58a11",
           "foreground": "#ffffff",
-          "leading_diamond": "<transparent,#f58a11>\ue0b0</>",
+          
           "properties": {
             "style": "folder"
           },
+          "trailing_diamond": "\ue0b0",
           "style": "diamond",
           "template": " \uf07c {{ .Path }} ",
-          "trailing_diamond": "\ue0b0",
           "type": "path"
         },
         {
@@ -54,12 +54,13 @@
           "foreground_templates": [
             "{{ if or (.Working.Changed) (.Staging.Changed) }}#000000{{ end }}"
           ],
-          "powerline_symbol": "\ue0b0",
+          
           "properties": {
             "fetch_status": true,
             "fetch_upstream_icon": false
           },
-          "style": "powerline",
+          "trailing_diamond": "\ue0b0",
+          "style": "diamond",
           "template": " {{ .HEAD }}{{ if .Staging.Changed }} \uf046 {{ .Staging.String }}{{ end }}{{ if .Working.Changed }} \uf044 {{ .Working.String }}{{ end }} ",
           "type": "git"
         }
