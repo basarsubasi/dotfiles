@@ -1,0 +1,64 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ himBHs != *i* ]] && return
+
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+PS1='[\u@\h \W]$ '
+
+
+eval "$(oh-my-posh init bash --config ~/oh-my-posh/mytheme.omp.json)"
+
+
+# ENVIROMENT VARIABLES
+
+
+# Kubernetes
+
+export KUBECONFIG=~/.kube/config
+
+
+# Android SDK
+
+export ANDROID_HOME=/home/basar/Android/Sdk
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/tools:/platform-tools
+
+
+
+# Nodejs
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+
+# Rust
+
+export PATH="$HOME/.cargo/bin:$PATH"
+
+
+# ALIASES
+
+
+# systemd
+
+alias poweroff='systemctl poweroff'
+alias reboot='systemctl reboot' 
+
+
+# pacman
+
+alias pacinstall='sudo pacman -S'
+alias pacremove='sudo pacman -Rns'
+alias updaterepos='sudo pacman -Syy'
+alias updatesystem='sudo pacman -Syu'
+
+
+# scrcpy
+
+alias scrcpy='scrcpy --video-codec=h265 --max-size=1920 --max-fps=60  --stay-awake --keyboard=uhid'
+
+

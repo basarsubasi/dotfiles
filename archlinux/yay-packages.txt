@@ -1,0 +1,11 @@
+activitywatch-bin
+android-studio
+brave-bin
+kind-bin
+ente-auth-bin
+heroic-games-launcher-bin
+losslesscut-bin
+mullvad-browser-bin
+visual-studio-code-bin
+yay-bin
+ytdlp-gui-bin
