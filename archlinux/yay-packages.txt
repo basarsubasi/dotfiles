@@ -7,5 +7,9 @@ heroic-games-launcher-bin
 losslesscut-bin
 mullvad-browser-bin
 visual-studio-code-bin
+oh-my-posh-bin
+quickemu-git
+quickgui-bin
 yay-bin
 ytdlp-gui-bin
+atuin
