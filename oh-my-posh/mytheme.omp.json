@@ -1,0 +1,73 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "blocks": [
+    {
+      "alignment": "left",
+      "segments": [
+        {
+          "background": "#4e5666",
+          "foreground": "#ffffff",
+          "leading_diamond": "\ue0b6",
+          "style": "diamond",
+          "template": " {{ .Icon }} ",
+          "trailing_diamond": "\ue0b0",
+          "type": "os"
+        },
+        {
+          "type": "kubectl",
+          "style": "diamond",
+          "background": "#61afef",
+          "foreground": "#ffffff",
+          "trailing_diamond": "\ue0b0",
+          "template": " \udb84\udcfe {{ .Context }} "
+        },
+        {
+          "background": "#e06c75",
+          "foreground": "#ffffff",
+          "leading_diamond": "<transparent,#e06c75>\ue0b0</>",
+          "style": "diamond",
+          "template": " \uf0e7 ",
+          "trailing_diamond": "\ue0b0",
+          "type": "root"
+        },
+        {
+          "background": "#f58a11",
+          "foreground": "#ffffff",
+          "leading_diamond": "<transparent,#f58a11>\ue0b0</>",
+          "properties": {
+            "style": "folder"
+          },
+          "style": "diamond",
+          "template": " \uf07c {{ .Path }} ",
+          "trailing_diamond": "\ue0b0",
+          "type": "path"
+        },
+        {
+          "background": "#226356",
+          "background_templates": [
+            "{{ if or (.Working.Changed) (.Staging.Changed) }}#e5c07b{{ end }}",
+            "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#c678dd{{ end }}",
+            "{{ if gt .Ahead 0 }}#c678dd{{ end }}",
+            "{{ if gt .Behind 0 }}#c678dd{{ end }}"
+          ],
+          "foreground": "#ffffff",
+          "foreground_templates": [
+            "{{ if or (.Working.Changed) (.Staging.Changed) }}#000000{{ end }}"
+          ],
+          "powerline_symbol": "\ue0b0",
+          "properties": {
+            "fetch_status": true,
+            "fetch_upstream_icon": false
+          },
+          "style": "powerline",
+          "template": " {{ .HEAD }}{{ if .Staging.Changed }} \uf046 {{ .Staging.String }}{{ end }}{{ if .Working.Changed }} \uf044 {{ .Working.String }}{{ end }} ",
+          "type": "git"
+        }
+      ],
+      "type": "prompt"
+    }
+  ],
+  "console_title_template": "{{.Folder}} @ {{.HostName}}",
+  "final_space": true,
+  "version": 3
+}
