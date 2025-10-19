@@ -70,7 +70,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git kubectl)
+plugins=(git kubectl kind)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -142,6 +142,12 @@ eval "$(pyenv init -)"
 
 # ALIASES
 
+
+# Kubernetes
+alias k='kubectl'
+alias cilium='cilium-cli'
+alias kns='kubens'
+alias kc='kubectx'
 
 # systemd
 
