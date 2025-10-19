@@ -5,12 +5,14 @@
 # If not running interactively, don't do anything
 [[ himBHs != *i* ]] && return
 
+alias cd='z'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 PS1='[\u@\h \W]$ '
 
-
 eval "$(oh-my-posh init bash --config ~/oh-my-posh/mytheme.omp.json)"
+
+eval "$(zoxide init bash)"
 
 
 # ENVIROMENT VARIABLES
@@ -40,6 +42,13 @@ export NVM_DIR="$HOME/.nvm"
 export PATH="$HOME/.cargo/bin:$PATH"
 
 
+# pyenv
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
+
 # ALIASES
 
 
@@ -60,5 +69,6 @@ alias updatesystem='sudo pacman -Syu'
 # scrcpy
 
 alias scrcpy='scrcpy --video-codec=h265 --max-size=1920 --max-fps=60  --stay-awake --keyboard=uhid'
+
 
 
