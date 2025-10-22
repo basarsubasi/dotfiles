@@ -1,0 +1,444 @@
+{
+  "default": [
+    {
+      "expression": "*.amazon.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "zmBSEuPzD"
+    },
+    {
+      "expression": "*.amazon.com.tr",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "f1ANEiTCrF"
+    },
+    {
+      "expression": "*.apple.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "6qflX3zhR"
+    },
+    {
+      "expression": "*.basarsubasi.com.tr",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "C4pGocj5o"
+    },
+    {
+      "expression": "*.basarsubasi.xyz",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "36aMx5Ge9D"
+    },
+    {
+      "expression": "*.binance.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "wtNKO7VOqU"
+    },
+    {
+      "expression": "*.boot.dev",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "fikHOICyP"
+    },
+    {
+      "expression": "*.btt.community",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "FM6YJbRTlS"
+    },
+    {
+      "expression": "*.bubilet.com.tr",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "_4PetYOOtL"
+    },
+    {
+      "expression": "*.chatgpt.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "23UTZ7dHdz"
+    },
+    {
+      "expression": "*.circuitverse.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "_DWpv4-dha"
+    },
+    {
+      "expression": "*.cloudflare.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "9qQx1EfWlh"
+    },
+    {
+      "expression": "*.cloudflareaccess.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "SOihr0GiCS"
+    },
+    {
+      "expression": "*.coursera.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "AAI6JxSZ8H"
+    },
+    {
+      "expression": "*.csair.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Lk3OUzRwhB"
+    },
+    {
+      "expression": "*.docker.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "a3ye0iuCS"
+    },
+    {
+      "expression": "*.getir.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "bNjbs46Oat"
+    },
+    {
+      "expression": "*.gibir.net.tr",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "7V0Wmm__B"
+    },
+    {
+      "expression": "*.github.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "EdZXrl-SQR"
+    },
+    {
+      "expression": "*.gog.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ehvNQ46CP2"
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "NZAO2CCpIz"
+    },
+    {
+      "expression": "*.indeed.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "dV93UdaVf"
+    },
+    {
+      "expression": "*.kariyer.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "u3I4FOCX9"
+    },
+    {
+      "expression": "*.last.fm",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ziPuciYhBKY"
+    },
+    {
+      "expression": "*.lichess.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "SLMFU5OYZ1v"
+    },
+    {
+      "expression": "*.linkedin.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "vMvWo_BY4"
+    },
+    {
+      "expression": "*.linuxfoundation.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "nQxa-D_4r"
+    },
+    {
+      "expression": "*.localhost",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "UplF9F-cu"
+    },
+    {
+      "expression": "*.medium.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "mCDSOLrhE"
+    },
+    {
+      "expression": "*.metunic.com.tr",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Y8T_GI7PjbY"
+    },
+    {
+      "expression": "*.migros.com.tr",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "FtS6cPbjAy8"
+    },
+    {
+      "expression": "*.namecheap.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "3Jw6-kaoyAy"
+    },
+    {
+      "expression": "*.proton.me",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "OnTyDDpG6Dt"
+    },
+    {
+      "expression": "*.raspberrypi.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "GuEARDy78"
+    },
+    {
+      "expression": "*.sahibinden.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "mYlsjMxtq2y"
+    },
+    {
+      "expression": "*.spotify.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "tDKzFde7NaZ"
+    },
+    {
+      "expression": "*.steampowered.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "MHd52OiWtlc"
+    },
+    {
+      "expression": "*.telegram.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "-RV_5gA0vLk"
+    },
+    {
+      "expression": "*.trendyol.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "FA-UKAFnE39"
+    },
+    {
+      "expression": "*.twitch.tv",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Hft7EU2CRdh"
+    },
+    {
+      "expression": "*.whatsapp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "5TO9aeLw2tC"
+    },
+    {
+      "expression": "*.wikipedia.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "sAa8HI5KPLj"
+    },
+    {
+      "expression": "*.x.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "7vbCRFnsx50"
+    },
+    {
+      "expression": "*.yemeksepeti.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "LDeJHJyTC6N"
+    },
+    {
+      "expression": "*.youtube.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "v_r6iCTGABK"
+    },
+    {
+      "expression": "192.168.1.1",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "TRKt9zkRkFd"
+    },
+    {
+      "expression": "192.168.1.14",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "gDuNe0XTAD-"
+    },
+    {
+      "expression": "192.168.1.201",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "WGUyo_t3-"
+    },
+    {
+      "expression": "chatgpt.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "YsuLY_ANwED"
+    },
+    {
+      "expression": "discord.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "7eK9a2uJtO0"
+    },
+    {
+      "expression": "getir.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "X96AVf895tb"
+    },
+    {
+      "expression": "gog.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "GFAe1a2A25s"
+    },
+    {
+      "expression": "instagram.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "jPzCpaAghRu"
+    },
+    {
+      "expression": "lichess.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "cnuBNwvaBA6"
+    },
+    {
+      "expression": "localhost",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "DUpQDGMKi"
+    }
+  ]
+}

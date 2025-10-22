@@ -4,10 +4,10 @@ amd-ucode 20251011-1
 android-studio 2025.1.4.8-1
 ark 25.08.2-1
 arp-scan 1.10.0-4
-atuin 18.8.0-1
+atuin 18.9.0-1
 base 3-2
 base-devel 1-2
-bat 0.25.0-4
+bat 0.26.0-1
 bcc 0.35.0-5
 bcc-libbpf-tools 0.35.0-5
 bind 9.20.13-1
@@ -41,7 +41,7 @@ firefox 144.0-1
 fzf 0.66.0-1
 gdu 5.31.0-1
 gimp 3.0.6-2
-git 2.51.1-1
+git 2.51.1-2
 gnu-netcat 0.7.1-12
 go 2:1.25.3-1
 gwenview 25.08.2-3
@@ -61,11 +61,12 @@ kdeconnect 25.08.2-2
 kind-bin 0.30.0-1
 konsole 25.08.2-1
 krdc 25.08.2-2
+krew 0.4.5-1
 kubectl 1.34.1-1
 kubectx 0.9.5-1
 less 1:685-1
 lib32-nvidia-utils 580.95.05-1
-libreoffice-fresh 25.8.2-3
+libreoffice-fresh 25.8.2-4
 libva-nvidia-driver 0.0.14-1
 libvirt 1:11.8.0-1
 libxml2-legacy 2.13.9-1
@@ -101,6 +102,7 @@ power-profiles-daemon 0.30-1
 proton-vpn-gtk-app 4.9.7-1
 pyenv 1:2.6.10-1
 python-pipx 1.8.0-1
+python-uv 0.9.4-1
 qbittorrent 5.1.2-1
 qemu-full 10.1.1-1
 qt5-multimedia 5.15.17+kde+r2-1

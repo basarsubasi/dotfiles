@@ -1,15 +1,30 @@
-activitywatch-bin
-android-studio
-brave-bin
-kind-bin
-ente-auth-bin
-heroic-games-launcher-bin
-losslesscut-bin
-mullvad-browser-bin
-visual-studio-code-bin
-oh-my-posh-bin
-quickemu-git
-quickgui-bin
-yay-bin
-ytdlp-gui-bin
-atuin
+activitywatch-bin 0.13.2-1
+android-studio 2025.1.4.8-1
+brave-bin 1:1.83.118-1
+ente-auth-bin 4.4.4-1
+envx-bin 0.6.2-1
+envx-bin-debug 0.6.2-1
+gnu-netcat 0.7.1-12
+heroic-games-launcher-bin 2.18.1-3
+kind-bin 0.30.0-1
+kind-bin-debug 0.30.0-1
+libgbinder 1.1.42-2
+libgbinder-debug 1.1.42-2
+libglibutil 1.0.80-1
+libglibutil-debug 1.0.80-1
+libsodium-1.0.18 1.0.18-1
+losslesscut-bin 3.65.0-2
+mullvad-browser-bin 14.5.8-1
+mullvad-browser-bin-debug 14.5.8-1
+oh-my-posh-bin 27.2.1-1
+oh-my-posh-bin-debug 27.2.1-1
+packettracer 8.2.2-1
+python-gbinder 1.1.2-3
+python-gbinder-debug 1.1.2-3
+quickemu-git 4.9.7.r58.g78b938fa-1
+quickgui-bin 1.2.10-1
+visual-studio-code-bin 1.105.1-1
+waydroid 1.5.4-1
+yay-bin 12.5.2-1
+yay-bin-debug 12.5.2-1
+ytdlp-gui-bin 3.1.2-1
